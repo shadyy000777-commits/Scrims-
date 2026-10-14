@@ -9,7 +9,7 @@ const { EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('
 
 function buildVerifyPanelPayload() {
   const embed = new EmbedBuilder()
-    .setTitle('<:276022clydebot:1549274299758809148> 𝐒𝐂𝐑𝐈𝐌𝐒 𝐕𝐄𝐑𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍')
+    .setTitle('**<:276022clydebot:1549274299758809148> SCRIMS VERIFICATION**')
     .setColor(0xF5A623)
     .setDescription(
       '<:559950clipboard:1549274535579230238> **Ready to enter the lobby? Verify your squad and lock your spot before the slots run out!**\n\n' +
